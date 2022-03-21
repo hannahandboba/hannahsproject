@@ -1,27 +1,13 @@
-# hannahsproject
-<p>INFOTC 1000 Midterm Project</p>
+<h1>Midterm Project for INFOTC 1000</h1>
 
-## Final Project
-
-**Description:** Create a personal site in markdown that is hosted on GitHub and provides information about you.
-
-**Purpose:** This project provides experience working with markdown, Git/GitHub, and IT-related concepts and knowledge.
-
-**Requirements:**
-
-This project is to be managed in a public GitHub repository. Submit the Clone with HTTPS URL for the repository that contains the personal site.
-
-The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_page) for your personal site on GitHub. Other markdown pages are to be linked to from the README.md. Provide navigation forward and backward when linking between markdown documents. Also, if useful, create links to navigate within a markdown document.
-
-The information that you present on the markdown pages is up to you. But, it must meet the following requirements. The site must have a minimum of five markdown pages and contain the following somewhere on the pages.
-
-* Paragraphs.
-* Headers.
-* Links between the markdown pages.
-* Links to other web sites.
-* One or more images that are hosted in the GitHub repo.
-* One or more images that are hosted elsewhere on the web.
-* A list.
-* Some text that is bolded.
-* Some text that is italicized.
-* A block of code.
+<h2>Welcome!</h2>
+<img src="https://c.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" alt="WAVING CAT" style="width:128px;height:128px;">
+<p>My name is Hannah Overman and I am a sophomore studying Information Technology!
+<br><br>
+<b>Click the links below to learn more about me!</b>
+<br><br>
+<a href="(cute_animals.md)">Learn about my cats</a><br>
+<a href="(cute_animals.md)">See an example of a coding project</a><br>
+<a href="(cute_animals.md)">Read about the places I've lived</a><br>
+<a href="(cute_animals.md)">See some of the games I play</a><br>
+<a href="https://weather.com/weather/tenday/l/Killeen+TX?canonicalCityId=3ed706efe43bbceae52eb1478508d9df3a8c0a56bd394d01118df1a19be07027">Check out the current weather conditions where I live!</a> <i>[Warning - Outside Link]</i></p>
