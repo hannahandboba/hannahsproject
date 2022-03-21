@@ -1,7 +1,7 @@
 <h1>Midterm Project for INFOTC 1000</h1>
 
 <h2>Welcome!</h2>
-<img src="https://c.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" alt="WAVING CAT" style="width:128px;height:128px;">
+<img src="https://c.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" alt="WAVING CAT" style="width:249px;height:217px;">
 <p>My name is Hannah Overman and I am a sophomore studying Information Technology!
 <br><br>
 <b>Click the links below to learn more about me!</b>
