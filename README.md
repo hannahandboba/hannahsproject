@@ -6,7 +6,7 @@
 <br><br>
 <b>Click the links below to learn more about me!</b>
 <br><br>
-<a href="(cats.md)">Learn about my cats</a><br>
+<a href="https://github.com/hannahboba/hannahsproject/blob/main/cats.md">Learn about my cats</a><br>
 <a href="(cute_animals.md)">See an example of a coding project</a><br>
 <a href="(cute_animals.md)">Read about the places I've lived</a><br>
 <a href="(cute_animals.md)">See some of the games I play</a><br>
